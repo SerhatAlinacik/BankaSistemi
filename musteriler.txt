@@ -1,0 +1,9 @@
+Müþteri No: 1001664
+TC        : 123
+Ýsim      : asd
+Soyisim   : sfgd
+Þehir     : 234
+Telefon   : 234
+Þifre     : 1579
+Para      : 0.00
+
